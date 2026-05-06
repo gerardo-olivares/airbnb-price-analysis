@@ -1,7 +1,3 @@
-Tienes razón, los bloques de código dentro del markdown rompen el formato. Aquí está todo en una sola pieza para copiar y pegar:
-
----
-
 # 🏠 Airbnb Price Prediction — Multiple Linear Regression
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python)](https://python.org)
