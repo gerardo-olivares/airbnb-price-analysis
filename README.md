@@ -1,4 +1,4 @@
-# 🏠 Airbnb Price Prediction — Multiple Linear Regression
+# 🏠 Airbnb Pricing Insights using Regression Modeling
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python)](https://python.org)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-orange?style=flat-square&logo=scikit-learn)](https://scikit-learn.org)
